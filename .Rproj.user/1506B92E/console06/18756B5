@@ -68,3 +68,27 @@ To git@github.com:HeyangGong/CS231.git
    a92d1db..6373013  master -> master
 Branch master set up to track remote branch master from origin.
 ]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git push -u origin mastercommit -m "adding files"add .[K
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add .push -u origin mastercommit -m "adding files"[C[C[C[1P"[1P"[1P"[1P"[1P"m"a"t"e"r"i"a"l"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"c"o"u"r"s"e" "l"e"a" [A]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn""r"i"n"g" "m"a"t"e"r"i"a"l"s"
+[master 3a4a14e] adding course leanring materials
+ 7 files changed, 111 insertions(+), 1 deletion(-)
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/D6DC8310
+ create mode 100644 .Rproj.user/1506B92E/sources/s-55703232/D372BE6B
+ create mode 100644 .Rproj.user/1506B92E/sources/s-55703232/D372BE6B-contents
+ create mode 100644 "\350\265\204\346\226\231\346\261\207\346\200\273\345\222\214\350\257\264\346\230\216.md"
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git commit -m "adding course leanrring materials"[A]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush -u origin master
+Counting objects: 16, done.
+Delta compression using up to 4 threads.
+Compressing objects:   6% (1/15)   Compressing objects:  13% (2/15)   Compressing objects:  20% (3/15)   Compressing objects:  26% (4/15)   Compressing objects:  33% (5/15)   Compressing objects:  40% (6/15)   Compressing objects:  46% (7/15)   Compressing objects:  53% (8/15)   Compressing objects:  60% (9/15)   Compressing objects:  66% (10/15)   Compressing objects:  73% (11/15)   Compressing objects:  80% (12/15)   Compressing objects:  86% (13/15)   Compressing objects:  93% (14/15)   Compressing objects: 100% (15/15)   Compressing objects: 100% (15/15), done.
+Writing objects:   6% (1/16)   Writing objects:  12% (2/16)   Writing objects:  18% (3/16)   Writing objects:  25% (4/16)   Writing objects:  31% (5/16)   Writing objects:  37% (6/16)   Writing objects:  43% (7/16)   Writing objects:  50% (8/16)   Writing objects:  56% (9/16)   Writing objects:  62% (10/16)   Writing objects:  68% (11/16)   Writing objects:  75% (12/16)   Writing objects:  81% (13/16)   Writing objects:  87% (14/16)   Writing objects:  93% (15/16)   Writing objects: 100% (16/16)   Writing objects: 100% (16/16), 2.92 KiB | 0 bytes/s, done.
+Total 16 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
+To git@github.com:HeyangGong/CS231.git
+   6373013..3a4a14e  master -> master
+Branch master set up to track remote branch master from origin.
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ mv 
+course-notes.Rmd   FAQ.md             materials/         .Rproj.user/       资料汇总和说明.md
+CS231.Rproj        .git/              README.md          scripts/           
+]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ mv 子[K资料汇总和说明.md materials/zi [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K资 料汇总和说明.md
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add .
