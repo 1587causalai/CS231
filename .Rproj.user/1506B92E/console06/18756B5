@@ -92,3 +92,19 @@ CS231.Rproj        .git/              README.md          scripts/
 ]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ mv 子[K资料汇总和说明.md materials/zi [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K资 料汇总和说明.md
 ]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add .
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git commit -m "[K'add[K[K[Kmaterial fi[K[Kserach[K[K[K[Kear[K[K[K[Ka[Kearchinn g'
+[master 932e036] material searchinng
+ 5 files changed, 28 insertions(+), 27 deletions(-)
+ delete mode 100644 .Rproj.user/1506B92E/sources/s-55703232/D372BE6B
+ rename "\350\265\204\346\226\231\346\261\207\346\200\273\345\222\214\350\257\264\346\230\216.md" => "materials/\350\265\204\346\226\231\346\261\207\346\200\273\345\222\214\350\257\264\346\230\216.md" (93%)
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git push -u origin master
+Counting objects: 12, done.
+Delta compression using up to 4 threads.
+Compressing objects:   8% (1/12)   Compressing objects:  16% (2/12)   Compressing objects:  25% (3/12)   Compressing objects:  33% (4/12)   Compressing objects:  41% (5/12)   Compressing objects:  50% (6/12)   Compressing objects:  58% (7/12)   Compressing objects:  66% (8/12)   Compressing objects:  75% (9/12)   Compressing objects:  83% (10/12)   Compressing objects:  91% (11/12)   Compressing objects: 100% (12/12)   Compressing objects: 100% (12/12), done.
+Writing objects:   8% (1/12)   Writing objects:  16% (2/12)   Writing objects:  25% (3/12)   Writing objects:  33% (4/12)   Writing objects:  41% (5/12)   Writing objects:  50% (6/12)   Writing objects:  58% (7/12)   Writing objects:  66% (8/12)   Writing objects:  75% (9/12)   Writing objects:  83% (10/12)   Writing objects:  91% (11/12)   Writing objects: 100% (12/12)   Writing objects: 100% (12/12), 1.78 KiB | 0 bytes/s, done.
+Total 12 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
+To git@github.com:HeyangGong/CS231.git
+   3a4a14e..932e036  master -> master
+Branch master set up to track remote branch master from origin.
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ [K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add . [K

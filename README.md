@@ -7,5 +7,5 @@ This is the learning process of Stanford CS231.
     2. Adding files like README.md and course-notes.Rmd.
     3. github project and some others. 
     
-    
+2. The directory materials contains a instruction file and other useful materials for this courses.
     

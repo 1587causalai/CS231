@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "998144660",
+    "hash" : "2904230204",
     "id" : "CD73573B",
-    "lastKnownWriteTime" : 1505548608,
-    "last_content_update" : 1505548608031,
+    "lastKnownWriteTime" : 1505551607,
+    "last_content_update" : 1505551607357,
     "path" : "~/test/coursera-project-age/working/CS231/README.md",
     "project_path" : "README.md",
     "properties" : {
-        "cursorPosition" : "11,0",
+        "cursorPosition" : "9,99",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },
