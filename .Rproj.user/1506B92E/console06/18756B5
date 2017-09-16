@@ -162,3 +162,15 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 ]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add .
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git commit -m " a[K[K[K"slid[K[K[K[Kfist [K[K[K[Krist slide"
+[master b7337ce] frist slide
+ 1 file changed, 55 insertions(+), 1 deletion(-)
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git commit -m "frist slide"add .[Kpush -u origin master
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git init
+Reinitialized existing Git repository in /home/ghy/test/coursera-project-age/working/CS231/.git/
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add .
