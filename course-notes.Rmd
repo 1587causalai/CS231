@@ -19,7 +19,11 @@ knitr::opts_chunk$set(
 
 This is a project of course notes for course CS231 by Standford.
 
+
+
 ## Overview
+
+http://study.163.com/course/courseMain.htm?courseId=1003223001 网易云课堂
 
 CS231n focuses on one of the most important problems of visual recognition – image classification.
 
@@ -47,3 +51,8 @@ scale, and on GPUs
 课程的 Syllabus
 
 课程大致包含 Course Intro, Image Classification, Loss function and Optimization,  Nerual networks, Convolutional Neural newtworks 等内容。
+
+
+## Questions
+
+本章收集一些值得思考的问题，比如从现在到成为图像深度学习专家的最短路径是什么？
