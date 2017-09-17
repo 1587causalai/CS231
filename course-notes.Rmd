@@ -53,6 +53,14 @@ scale, and on GPUs
 课程大致包含 Course Intro, Image Classification, Loss function and Optimization,  Nerual networks, Convolutional Neural newtworks 等内容。
 
 
+### python tutorial
+
+
+```{r}
+file.edit("scripts/quick-sort.py")
+```
+
+
 ## Questions
 
 本章收集一些值得思考的问题，比如从现在到成为图像深度学习专家的最短路径是什么？
