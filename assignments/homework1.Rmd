@@ -1,0 +1,33 @@
+---
+title: "第一次作业"
+author: "Heyang Gong"
+date: "`r Sys.Date()`"
+output: 
+  html_document: 
+    number_sections: yes
+    toc: yes
+---
+
+```{r setup,eval=TRUE, echo=FALSE, warning=FALSE,message=FALSE}
+knitr::opts_chunk$set(
+  eval = FALSE,
+	echo = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+总共6个问题：
+
+Q1: k-Nearest Neighbor classifier (20 points)
+
+Q2: Training a Support Vector Machine (25 points)
+
+Q3: Implement a Softmax classifier (20 points)
+
+Q4: Two-Layer Neural Network (25 points)
+
+Q5: Higher Level Representations: Image Features (10 points)
+
+Q6: Cool Bonus: Do something extra! (+10 points)
+

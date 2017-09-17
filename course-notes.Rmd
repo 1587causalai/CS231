@@ -19,11 +19,19 @@ knitr::opts_chunk$set(
 
 This is a project of course notes for course CS231 by Standford.
 
+```
+1. quick start of learning this course
+2. 
+
+
+```
+
+
 
 
 ## Overview
 
-http://study.163.com/course/courseMain.htm?courseId=1003223001 网易云课堂
+
 
 CS231n focuses on one of the most important problems of visual recognition – image classification.
 
@@ -59,6 +67,33 @@ scale, and on GPUs
 ```{r}
 file.edit("scripts/quick-sort.py")
 ```
+
+### Repos and best materials
+
+http://cs231n.github.io/ 本课程资源官方资料网站
+
+
+[subodh-malgonde/cs231n](https://github.com/subodh-malgonde/cs231n) 是非常好的一个 repo on github, 里面包含了，每次的作业.
+
+http://study.163.com/course/courseMain.htm?courseId=1003223001 网易云课堂
+
+
+
+## Start from the course site
+
+http://cs231n.github.io/ 本课程资源官方资料网站, 从这个网站出发，一步步的学习。
+
+由于没有双币信用卡，暂时放弃使用。
+
+### assignment1
+
+Image classification, KNN, SVM, Softmax, Neural network. 
+
+```{r}
+file.edit("assignments/h1.py")
+```
+
+
 
 
 ## Questions
