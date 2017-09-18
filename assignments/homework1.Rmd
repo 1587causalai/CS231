@@ -21,6 +21,30 @@ knitr::opts_chunk$set(
 
 Q1: k-Nearest Neighbor classifier (20 points)
 
+
+```
+1. 直接绕过去， from cs231n.data_utils import load_CIFAR10 出了问题。
+2. 直接先解决数学理解的问题。10分钟系列录制。
+```
+
+
+> KNN是什么，有什么用，怎么用？
+
+它是一种算法，一种利用数据做预测的方法，它根据数据构造出一个函数数据，输入特征的值，输出预测值。它可以用于分类和回归任务。用法如下：
+
+```{r}
+# https://stat.ethz.ch/R-manual/R-devel/library/class/html/knn.html
+train <- rbind(iris3[1:25,,1], iris3[1:25,,2], iris3[1:25,,3])
+test <- rbind(iris3[26:50,,1], iris3[26:50,,2], iris3[26:50,,3])
+cl <- factor(c(rep("s",25), rep("c",25), rep("v",25)))
+prediction <- class::knn(train, test, cl, k = 3, prob=TRUE)
+prediction
+```
+
+
+
+
+
 Q2: Training a Support Vector Machine (25 points)
 
 Q3: Implement a Softmax classifier (20 points)

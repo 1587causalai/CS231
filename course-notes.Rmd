@@ -21,9 +21,9 @@ This is a project of course notes for course CS231 by Standford.
 
 ```
 1. quick start of learning this course
-2. 
+2. start from github official webisite http://cs231n.github.io/ 
 
-
+ 
 ```
 
 
@@ -87,10 +87,14 @@ http://cs231n.github.io/ 本课程资源官方资料网站, 从这个网站出�
 
 ### assignment1
 
-Image classification, KNN, SVM, Softmax, Neural network. 
+Image classification, KNN, SVM, Softmax, Neural network. I need to the following two things frist:
+
+- https://github.com/subodh-malgonde/cs231n/tree/master/Assignments/assignment1, 直接研读前人的代码。
+- 十分钟分别讲清楚 KNN， SVM， Softmax, Neural network 的优化目标函数和优化算法的实现。
 
 ```{r}
-file.edit("assignments/h1.py")
+getwd()
+file.edit("assignments/h1knn.py")
 ```
 
 

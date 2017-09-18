@@ -1,1 +1,43 @@
-c[K
+]0;/home/ghy/test/coursera-project-age/working/CS231/materials]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cp /home/ghy/Downloads/ cs231n-master/Assignments/assignment1/kk[Knn.ipynb /[Kl[K./
+cs231n_2017_lecture1.pdf         python-tutorial.ipynb
+.git/                            资料汇总和说明.html
+.ipynb_checkpoints/              资料汇总和说明.md
+python-tutorial-by-Heyang.ipynb  
+]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cp /home/ghy/Downloads/ccs231n-master/Assignments/assignment1/knn.ipynb ./
+cs231n_2017_lecture1.pdf         python-tutorial.ipynb
+.git/                            资料汇总和说明.html
+.ipynb_checkpoints/              资料汇总和说明.md
+python-tutorial-by-Heyang.ipynb  
+]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cp /home/ghy/Downloads/ccs231n-master/Assignments/assignment1/knn.ipynb ./[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ ls
+[0m[34;42massignments[0m        [01;32mcourse-notes.Rmd[0m  [01;32mFAQ.md[0m     [01;32mREADME.md[0m
+[01;32mcourse-notes.html[0m  [01;32mCS231.Rproj[0m       [34;42mmaterials[0m  [34;42mscripts[0m
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ cp [K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ cp /home/ghy/Downloads/cs231n-mas ter/Assignments/assignment1/knn.ipynb ./assignments/i[Kassignment1/knn[K[K[Kh1knn[K[K[K[K[Kknn.ipynb
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ i[Kjuy[Kpy ./assignments/assignment1/kn n.ipynb 
+[32m[I 07:16:32.115 NotebookApp](B[m Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[33m[W 07:16:33.759 NotebookApp](B[m All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[32m[I 07:16:33.821 NotebookApp](B[m Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/assignments/assignment1
+[32m[I 07:16:33.821 NotebookApp](B[m 0 active kernels 
+[32m[I 07:16:33.821 NotebookApp](B[m The Jupyter Notebook is running at: http://localhost:8888/
+[32m[I 07:16:33.821 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[33m[W 07:16:35.441 NotebookApp](B[m Notebook knn.ipynb is not trusted
+[33m[W 07:16:35.568 NotebookApp](B[m 404 GET /nbextensions/canopy/training/exercise.js?v=20170918071632 (127.0.0.1) 35.11ms referer=http://localhost:8888/notebooks/knn.ipynb?token=f4920cd4ecd9877472005f66929ddcc0756779f881706cb6
+[33m[W 07:16:35.572 NotebookApp](B[m 404 GET /nbextensions/canopy/catalyst.js?v=20170918071632 (127.0.0.1) 2.33ms referer=http://localhost:8888/notebooks/knn.ipynb?token=f4920cd4ecd9877472005f66929ddcc0756779f881706cb6
+[33m[W 07:16:36.516 NotebookApp](B[m 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170918071632 (127.0.0.1) 2.20ms referer=http://localhost:8888/notebooks/knn.ipynb?token=f4920cd4ecd9877472005f66929ddcc0756779f881706cb6
+[32m[I 07:16:36.619 NotebookApp](B[m Kernel started: 321a0d03-7018-43ae-ae5b-881a0bbee403
+[32m[I 07:18:36.481 NotebookApp](B[m Saving file at /knn.ipynb
+[33m[W 07:18:36.481 NotebookApp](B[m Saving untrusted notebook knn.ipynb
+[32m[I 07:20:36.516 NotebookApp](B[m Saving file at /knn.ipynb
+[33m[W 07:20:36.517 NotebookApp](B[m Saving untrusted notebook knn.ipynb
+^C[32m[I 10:15:40.371 NotebookApp](B[m interrupted
+Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/assignments/assignment1
+1 active kernels 
+The Jupyter Notebook is running at: http://localhost:8888/
+Shutdown this notebook server (y/[n])? y
+[C 10:15:44.613 NotebookApp] Shutdown confirmed
+[32m[I 10:15:44.614 NotebookApp](B[m Shutting down kernels
+[32m[I 10:15:45.116 NotebookApp](B[m Kernel shutdown: 321a0d03-7018-43ae-ae5b-881a0bbee403
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git nit[K[K[Kinit
+Reinitialized existing Git repository in /home/ghy/test/coursera-project-age/working/CS231/.git/
+]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ in[K[Kgit add .
