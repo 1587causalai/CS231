@@ -132,15 +132,18 @@ $(document).ready(function () {
 <li><a href="#start-from-the-course-site"><span class="toc-section-number">0.2</span> Start from the course site</a><ul>
 <li><a href="#assignment1"><span class="toc-section-number">0.2.1</span> assignment1</a></li>
 </ul></li>
-<li><a href="#questions"><span class="toc-section-number">0.3</span> Questions</a></li>
+<li><a href="#cnn"><span class="toc-section-number">0.3</span> CNN</a></li>
+<li><a href="#questions"><span class="toc-section-number">0.4</span> Questions</a></li>
 </ul>
 </div>
 
 <p>This is a project of course notes for course CS231 by Standford.</p>
 <pre><code>1. quick start of learning this course
 2. start from github official webisite http://cs231n.github.io/ 
+3. 直接深入了解CNN。
 
- </code></pre>
+
+</code></pre>
 <div id="overview" class="section level2">
 <h2><span class="header-section-number">0.1</span> Overview</h2>
 <p>CS231n focuses on one of the most important problems of visual recognition – image classification.</p>
@@ -192,12 +195,28 @@ $(document).ready(function () {
 <p>由于没有双币信用卡，暂时放弃使用。</p>
 <div id="assignment1" class="section level3">
 <h3><span class="header-section-number">0.2.1</span> assignment1</h3>
-<p>Image classification, KNN, SVM, Softmax, Neural network.</p>
-<pre class="r"><code>file.edit(&quot;assignments/h1.py&quot;)</code></pre>
+<p>Image classification, KNN, SVM, Softmax, Neural network. I need to the following two things frist:</p>
+<ul>
+<li><a href="https://github.com/subodh-malgonde/cs231n/tree/master/Assignments/assignment1" class="uri">https://github.com/subodh-malgonde/cs231n/tree/master/Assignments/assignment1</a>, 直接研读前人的代码。</li>
+<li>十分钟分别讲清楚 KNN， SVM， Softmax, Neural network 的优化目标函数和优化算法的实现。</li>
+</ul>
+<pre class="r"><code>getwd()
+file.edit(&quot;assignments/h1knn.py&quot;)</code></pre>
 </div>
+</div>
+<div id="cnn" class="section level2">
+<h2><span class="header-section-number">0.3</span> CNN</h2>
+<p><a href="http://cs231n.github.io/convolutional-networks/" class="uri">http://cs231n.github.io/convolutional-networks/</a></p>
+<p>depth, stride, zero-padding 三个CNN重要参数！</p>
+<p>CNN是什么，有什么用，怎么用？</p>
+<p>magic function in python? %% timeit</p>
+<pre class="r"><code>getwd()
+ls()
+dir.create(&quot;scripts&quot;)
+file.edit(&quot;scripts/cnn-minst.py&quot;)</code></pre>
 </div>
 <div id="questions" class="section level2">
-<h2><span class="header-section-number">0.3</span> Questions</h2>
+<h2><span class="header-section-number">0.4</span> Questions</h2>
 <p>本章收集一些值得思考的问题，比如从现在到成为图像深度学习专家的最短路径是什么？</p>
 </div>
 

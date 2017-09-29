@@ -8,6 +8,8 @@ output:
     toc: yes
 ---
 
+> tie: 神经网路等一切模型都是一个映射，把图片，视频变成一个高维空间中的向量。神经网路就是一个特征工程，一个降维过程。
+
 ```{r setup,eval=TRUE, echo=FALSE, warning=FALSE,message=FALSE}
 knitr::opts_chunk$set(
   eval = FALSE,
@@ -22,11 +24,13 @@ This is a project of course notes for course CS231 by Standford.
 ```
 1. quick start of learning this course
 2. start from github official webisite http://cs231n.github.io/ 
+3. 直接深入了解CNN。
 
- 
+
+
 ```
 
-
+# Part I: Quick start
 
 
 ## Overview
@@ -98,8 +102,64 @@ file.edit("assignments/h1knn.py")
 ```
 
 
+## CNN
+
+
+http://cs231n.github.io/convolutional-networks/
+
+depth, stride, zero-padding 三个CNN重要参数！
+
+CNN是什么，有什么用，怎么用？
+
+
+magic function in python?  %% timeit 
+
+
+```{r}
+getwd()
+ls()
+dir.create("scripts")
+file.edit("scripts/cnn-minst.py")
+```
+
+
+
+ 
+
 
 
 ## Questions
 
 本章收集一些值得思考的问题，比如从现在到成为图像深度学习专家的最短路径是什么？
+
+
+
+# Part II: 可视化
+
+- [google 游乐场](http://playground.tensorflow.org)
+- [卷积神经网路 MNIST 可视化](scs.ryerson.ca/~aharley/vis/conv/)
+
+
+## gongfuzhou
+
+随机梯度下降法，。。。
+
+博弈算法 VS 贪婪算法
+
+google or facebook 团队自动调参, 胡耀宗。
+
+xuzongben... 
+
+白板深度学习。
+
+模拟退火的几乎最优条件。 
+
+调节参数的一般过程，两种方法，从多到少，从少到多，最多10曾，一般每层不超过6个神经元。
+
+
+
+# Part III: 生成式对抗网络
+
+google "生成式对抗网络"
+
+[到底什么是生成式对抗网络GAN?](https://zhuanlan.zhihu.com/p/26994666)

@@ -1,4 +1,5 @@
-import random
-import numpy as np
-from cs231n.data_utils import load_CIFAR10
-import matplotlib.pyplot as plt
+X = [[0], [1], [2], [3]]
+y = [0, 0, 1, 1]
+from sklearn.neighbors import KNeighborsClassifier
+neigh = KNeighborsClassifier(n_neighbors=3)
+neigh.fit(X, y)  

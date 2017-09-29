@@ -17,6 +17,9 @@ knitr::opts_chunk$set(
 )
 ```
 
+传统机器学习算法（KNN, SVM）的学习，亲自实现这些代码，
+
+
 总共6个问题：
 
 Q1: k-Nearest Neighbor classifier (20 points)
@@ -40,6 +43,18 @@ cl <- factor(c(rep("s",25), rep("c",25), rep("v",25)))
 prediction <- class::knn(train, test, cl, k = 3, prob=TRUE)
 prediction
 ```
+
+http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+
+```{python}
+X = [[0], [1], [2], [3]]
+y = [0, 0, 1, 1]
+from sklearn.neighbors import KNeighborsClassifier
+neigh = KNeighborsClassifier(n_neighbors=3)
+neigh.fit(X, y)  
+```
+
 
 
 
