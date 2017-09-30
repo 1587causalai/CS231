@@ -1,156 +1,3 @@
-]0;/home/ghy/test/coursera-project-age/working/CS231/materials]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cp /home/ghy/Downloads/ cs231n-master/Assignments/assignment1/kk[Knn.ipynb /[Kl[K./
-cs231n_2017_lecture1.pdf         python-tutorial.ipynb
-.git/                            资料汇总和说明.html
-.ipynb_checkpoints/              资料汇总和说明.md
-python-tutorial-by-Heyang.ipynb  
-]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cp /home/ghy/Downloads/ccs231n-master/Assignments/assignment1/knn.ipynb ./
-cs231n_2017_lecture1.pdf         python-tutorial.ipynb
-.git/                            资料汇总和说明.html
-.ipynb_checkpoints/              资料汇总和说明.md
-python-tutorial-by-Heyang.ipynb  
-]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cp /home/ghy/Downloads/ccs231n-master/Assignments/assignment1/knn.ipynb ./[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ ls
-[0m[34;42massignments[0m        [01;32mcourse-notes.Rmd[0m  [01;32mFAQ.md[0m     [01;32mREADME.md[0m
-[01;32mcourse-notes.html[0m  [01;32mCS231.Rproj[0m       [34;42mmaterials[0m  [34;42mscripts[0m
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ cp [K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ cp /home/ghy/Downloads/cs231n-mas ter/Assignments/assignment1/knn.ipynb ./assignments/i[Kassignment1/knn[K[K[Kh1knn[K[K[K[K[Kknn.ipynb
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ i[Kjuy[Kpy ./assignments/assignment1/kn n.ipynb 
-[32m[I 07:16:32.115 NotebookApp](B[m Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
-[33m[W 07:16:33.759 NotebookApp](B[m All authentication is disabled.  Anyone who can connect to this server will be able to run code.
-[32m[I 07:16:33.821 NotebookApp](B[m Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/assignments/assignment1
-[32m[I 07:16:33.821 NotebookApp](B[m 0 active kernels 
-[32m[I 07:16:33.821 NotebookApp](B[m The Jupyter Notebook is running at: http://localhost:8888/
-[32m[I 07:16:33.821 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[33m[W 07:16:35.441 NotebookApp](B[m Notebook knn.ipynb is not trusted
-[33m[W 07:16:35.568 NotebookApp](B[m 404 GET /nbextensions/canopy/training/exercise.js?v=20170918071632 (127.0.0.1) 35.11ms referer=http://localhost:8888/notebooks/knn.ipynb?token=f4920cd4ecd9877472005f66929ddcc0756779f881706cb6
-[33m[W 07:16:35.572 NotebookApp](B[m 404 GET /nbextensions/canopy/catalyst.js?v=20170918071632 (127.0.0.1) 2.33ms referer=http://localhost:8888/notebooks/knn.ipynb?token=f4920cd4ecd9877472005f66929ddcc0756779f881706cb6
-[33m[W 07:16:36.516 NotebookApp](B[m 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170918071632 (127.0.0.1) 2.20ms referer=http://localhost:8888/notebooks/knn.ipynb?token=f4920cd4ecd9877472005f66929ddcc0756779f881706cb6
-[32m[I 07:16:36.619 NotebookApp](B[m Kernel started: 321a0d03-7018-43ae-ae5b-881a0bbee403
-[32m[I 07:18:36.481 NotebookApp](B[m Saving file at /knn.ipynb
-[33m[W 07:18:36.481 NotebookApp](B[m Saving untrusted notebook knn.ipynb
-[32m[I 07:20:36.516 NotebookApp](B[m Saving file at /knn.ipynb
-[33m[W 07:20:36.517 NotebookApp](B[m Saving untrusted notebook knn.ipynb
-^C[32m[I 10:15:40.371 NotebookApp](B[m interrupted
-Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/assignments/assignment1
-1 active kernels 
-The Jupyter Notebook is running at: http://localhost:8888/
-Shutdown this notebook server (y/[n])? y
-[C 10:15:44.613 NotebookApp] Shutdown confirmed
-[32m[I 10:15:44.614 NotebookApp](B[m Shutting down kernels
-[32m[I 10:15:45.116 NotebookApp](B[m Kernel shutdown: 321a0d03-7018-43ae-ae5b-881a0bbee403
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git nit[K[K[Kinit
+[K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git nit[K[K[Kinit
 Reinitialized existing Git repository in /home/ghy/test/coursera-project-age/working/CS231/.git/
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ in[K[Kgit add .
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git comi[Kmit -m " [Kadd knn learning"
-[master d281311] add knn learning
- 39 files changed, 4879 insertions(+), 16 deletions(-)
- rewrite .Rproj.user/1506B92E/console06/18756B5 (100%)
- rewrite .Rproj.user/1506B92E/console06/INDEX001 (87%)
- create mode 100644 assignments/assignment1/.ipynb_checkpoints/knn-checkpoint.ipynb
- create mode 100644 assignments/assignment1/knn.ipynb
- create mode 100644 assignments/h1knn.py
- create mode 100644 materials/assignment1/.gitignore
- create mode 100644 materials/assignment1/README.md
- create mode 100644 materials/assignment1/collectSubmission.sh
- create mode 100644 materials/assignment1/cs231n/__init__.py
- create mode 100644 materials/assignment1/cs231n/classifiers/__init__.py
- create mode 100644 materials/assignment1/cs231n/classifiers/k_nearest_neighbor.py
- create mode 100644 materials/assignment1/cs231n/classifiers/linear_classifier.py
- create mode 100644 materials/assignment1/cs231n/classifiers/linear_svm.py
- create mode 100644 materials/assignment1/cs231n/classifiers/neural_net.py
- create mode 100644 materials/assignment1/cs231n/classifiers/softmax.py
- create mode 100644 materials/assignment1/cs231n/data_utils.py
- create mode 100644 materials/assignment1/cs231n/datasets/.gitignore
- create mode 100644 materials/assignment1/cs231n/datasets/get_datasets.sh
- create mode 100644 materials/assignment1/cs231n/features.py
- create mode 100644 materials/assignment1/cs231n/gradient_check.py
- create mode 100644 materials/assignment1/cs231n/vis_utils.py
- create mode 100644 materials/assignment1/features.ipynb
- create mode 100644 materials/assignment1/frameworkpython
- create mode 100644 materials/assignment1/knn.ipynb
- create mode 100644 materials/assignment1/requirements.txt
- create mode 100644 materials/assignment1/softmax.ipynb
- create mode 100644 materials/assignment1/start_ipython_osx.sh
- create mode 100644 materials/assignment1/svm.ipynb
- create mode 100644 materials/assignment1/two_layer_net.ipynb
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git push -u mas[K[K[Korigin master
-Counting objects: 58, done.
-Delta compression using up to 4 threads.
-Compressing objects:   1% (1/52)   Compressing objects:   3% (2/52)   Compressing objects:   5% (3/52)   Compressing objects:   7% (4/52)   Compressing objects:   9% (5/52)   Compressing objects:  11% (6/52)   Compressing objects:  13% (7/52)   Compressing objects:  15% (8/52)   Compressing objects:  17% (9/52)   Compressing objects:  19% (10/52)   Compressing objects:  21% (11/52)   Compressing objects:  23% (12/52)   Compressing objects:  25% (13/52)   Compressing objects:  26% (14/52)   Compressing objects:  28% (15/52)   Compressing objects:  30% (16/52)   Compressing objects:  32% (17/52)   Compressing objects:  34% (18/52)   Compressing objects:  36% (19/52)   Compressing objects:  38% (20/52)   Compressing objects:  40% (21/52)   Compressing objects:  42% (22/52)   Compressing objects:  44% (23/52)   Compressing objects:  46% (24/52)   Compressing objects:  48% (25/52)   Compressing objects:  50% (26/52)   Compressing objects:  51% (27/52)   Compressing objects:  53% (28/52)   Compressing objects:  55% (29/52)   Compressing objects:  57% (30/52)   Compressing objects:  59% (31/52)   Compressing objects:  61% (32/52)   Compressing objects:  63% (33/52)   Compressing objects:  65% (34/52)   Compressing objects:  67% (35/52)   Compressing objects:  69% (36/52)   Compressing objects:  71% (37/52)   Compressing objects:  73% (38/52)   Compressing objects:  75% (39/52)   Compressing objects:  76% (40/52)   Compressing objects:  78% (41/52)   Compressing objects:  80% (42/52)   Compressing objects:  82% (43/52)   Compressing objects:  84% (44/52)   Compressing objects:  86% (45/52)   Compressing objects:  88% (46/52)   Compressing objects:  90% (47/52)   Compressing objects:  92% (48/52)   Compressing objects:  94% (49/52)   Compressing objects:  96% (50/52)   Compressing objects:  98% (51/52)   Compressing objects: 100% (52/52)   Compressing objects: 100% (52/52), done.
-Writing objects:   1% (1/58)   Writing objects:   3% (2/58)   Writing objects:   5% (3/58)   Writing objects:   6% (4/58)   Writing objects:   8% (5/58)   Writing objects:  10% (6/58)   Writing objects:  12% (7/58)   Writing objects:  13% (8/58)   Writing objects:  15% (9/58)   Writing objects:  17% (10/58)   Writing objects:  18% (11/58)   Writing objects:  20% (12/58)   Writing objects:  22% (13/58)   Writing objects:  24% (14/58)   Writing objects:  25% (15/58)   Writing objects:  27% (16/58)   Writing objects:  29% (17/58)   Writing objects:  31% (18/58)   Writing objects:  32% (19/58)   Writing objects:  34% (20/58)   Writing objects:  36% (21/58)   Writing objects:  37% (22/58)   Writing objects:  39% (23/58)   Writing objects:  41% (24/58)   Writing objects:  43% (25/58)   Writing objects:  44% (26/58)   Writing objects:  46% (27/58)   Writing objects:  48% (28/58)   Writing objects:  50% (29/58)   Writing objects:  51% (30/58)   Writing objects:  53% (31/58)   Writing objects:  55% (32/58)   Writing objects:  56% (33/58)   Writing objects:  58% (34/58)   Writing objects:  60% (35/58)   Writing objects:  62% (36/58)   Writing objects:  63% (37/58)   Writing objects:  65% (38/58)   Writing objects:  67% (39/58)   Writing objects:  70% (41/58)   Writing objects:  72% (42/58)   Writing objects:  74% (43/58)   Writing objects:  75% (44/58)   Writing objects:  77% (45/58)   Writing objects:  79% (46/58)   Writing objects:  81% (47/58)   Writing objects:  82% (48/58)   Writing objects:  84% (49/58)   Writing objects:  86% (50/58)   Writing objects:  87% (51/58)   Writing objects:  89% (52/58)   Writing objects:  91% (53/58)   Writing objects:  93% (54/58)   Writing objects:  94% (55/58)   Writing objects:  96% (56/58)   Writing objects:  98% (57/58)   Writing objects: 100% (58/58)   Writing objects: 100% (58/58), 332.76 KiB | 0 bytes/s, done.
-Total 58 (delta 12), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/12)   [Kremote: Resolving deltas:  16% (2/12)   [Kremote: Resolving deltas:  25% (3/12)   [Kremote: Resolving deltas:  33% (4/12)   [Kremote: Resolving deltas:  41% (5/12)   [Kremote: Resolving deltas:  50% (6/12)   [Kremote: Resolving deltas:  58% (7/12)   [Kremote: Resolving deltas:  66% (8/12)   [Kremote: Resolving deltas:  75% (9/12)   [Kremote: Resolving deltas:  83% (10/12)   [Kremote: Resolving deltas:  91% (11/12)   [Kremote: Resolving deltas: 100% (12/12)   [Kremote: Resolving deltas: 100% (12/12), completed with 8 local objects.[K
-To git@github.com:HeyangGong/CS231.git
-   1f7d764..d281311  master -> master
-Branch master set up to track remote branch master from origin.
-mv p[KPrerequsite.md assignments/pr[K[KPre requsite
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ mv Prerequsite.md assignments/Prerrequsite[A]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ [K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd [K[K[Kmv[K[Kcd assignments/
-]0;/home/ghy/test/coursera-project-age/working/CS231/assignments]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/assignmentsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/assignments$ mv Prerequsite Prerequusite .[K[K.md
-]0;/home/ghy/test/coursera-project-age/working/CS231/assignments]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/assignmentsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/assignments$ ls[K[Kpython[K[K[K[K[K[Kls
-[0m[34;42massignment1_to_be_finished[0m  [01;32mh1knn.py[0m  [01;32mhomework1.Rmd[0m  [01;32mPrerequsite.md[0m
-]0;/home/ghy/test/coursera-project-age/working/CS231/assignments]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/assignmentsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/assignments$ sour[K[K[K[Ksource as[Kc[K[Kscri[K[K[K[K[K[K[K[K[K[K[Kppy[K[Kython scrip[K[K[K[K[K"sc[K[K[K[K""[C[K[K "scripts/cnn"-" [A]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/assignmentsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/assignments$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm""i"n"s"t"."p"y"
-python: can't open file 'scripts/cnn-minst.py': [Errno 2] No such file or directory
-]0;/home/ghy/test/coursera-project-age/working/CS231/assignments]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/assignmentsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/assignments$ ls
-[0m[34;42massignment1_to_be_finished[0m  [01;32mh1knn.py[0m  [01;32mhomework1.Rmd[0m  [01;32mPrerequsite.md[0m
-]0;/home/ghy/test/coursera-project-age/working/CS231/assignments]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/assignmentsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/assignments$ cd ..
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ python scripts/m[Kcnn-minst.py 
-[K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ 测度[K[Kcd st[Kcripts/
-]0;/home/ghy/test/coursera-project-age/working/CS231/scripts]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/scriptsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/scripts$ p[Kjupy
-[33m[W 15:06:08.890 NotebookApp](B[m All authentication is disabled.  Anyone who can connect to this server will be able to run code.
-[32m[I 15:06:08.891 NotebookApp](B[m The port 8888 is already in use, trying another port.
-[32m[I 15:06:08.891 NotebookApp](B[m The port 8889 is already in use, trying another port.
-[32m[I 15:06:08.896 NotebookApp](B[m Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/scripts
-[32m[I 15:06:08.897 NotebookApp](B[m 0 active kernels 
-[32m[I 15:06:08.897 NotebookApp](B[m The Jupyter Notebook is running at: http://localhost:8890/
-[32m[I 15:06:08.897 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-^C[32m[I 15:06:42.859 NotebookApp](B[m interrupted
-Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/scripts
-0 active kernels 
-The Jupyter Notebook is running at: http://localhost:8890/
-Shutdown this notebook server (y/[n])? y
-[C 15:06:44.588 NotebookApp] Shutdown confirmed
-[32m[I 15:06:44.588 NotebookApp](B[m Shutting down kernels
-]0;/home/ghy/test/coursera-project-age/working/CS231/scripts]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/scriptsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/scripts$ cd ..
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ cd materials/
-]0;/home/ghy/test/coursera-project-age/working/CS231/materials]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ jupy
-[33m[W 15:06:53.321 NotebookApp](B[m All authentication is disabled.  Anyone who can connect to this server will be able to run code.
-[32m[I 15:06:53.321 NotebookApp](B[m The port 8888 is already in use, trying another port.
-[32m[I 15:06:53.322 NotebookApp](B[m The port 8889 is already in use, trying another port.
-[32m[I 15:06:53.327 NotebookApp](B[m Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/materials
-[32m[I 15:06:53.327 NotebookApp](B[m 0 active kernels 
-[32m[I 15:06:53.327 NotebookApp](B[m The Jupyter Notebook is running at: http://localhost:8890/
-[32m[I 15:06:53.327 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[33m[W 15:07:08.019 NotebookApp](B[m Notebook python-tutorial-by-Heyang.ipynb is not trusted
-[33m[W 15:07:08.100 NotebookApp](B[m 404 GET /nbextensions/canopy/catalyst.js?v=20170919150653 (127.0.0.1) 7.42ms referer=http://localhost:8890/notebooks/python-tutorial-by-Heyang.ipynb
-[33m[W 15:07:08.118 NotebookApp](B[m 404 GET /nbextensions/canopy/training/exercise.js?v=20170919150653 (127.0.0.1) 2.00ms referer=http://localhost:8890/notebooks/python-tutorial-by-Heyang.ipynb
-[32m[I 15:07:12.453 NotebookApp](B[m Kernel started: c04da7cd-88ea-4fde-955c-8aff920e9ece
-[33m[W 15:07:12.538 NotebookApp](B[m 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170919150653 (127.0.0.1) 5.59ms referer=http://localhost:8890/notebooks/python-tutorial-by-Heyang.ipynb
-^C[32m[I 15:07:50.094 NotebookApp](B[m interrupted
-Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231/materials
-1 active kernels 
-The Jupyter Notebook is running at: http://localhost:8890/
-Shutdown this notebook server (y/[n])? y
-[C 15:07:52.033 NotebookApp] Shutdown confirmed
-[32m[I 15:07:52.034 NotebookApp](B[m Shutting down kernels
-
-[32m[I 15:07:52.635 NotebookApp](B[m Kernel shutdown: c04da7cd-88ea-4fde-955c-8aff920e9ece
-]0;/home/ghy/test/coursera-project-age/working/CS231/materials]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ 
-]0;/home/ghy/test/coursera-project-age/working/CS231/materials]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231/materialsghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231/materials$ cd ..
-]0;/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ jupy
-[33m[W 15:07:57.854 NotebookApp](B[m All authentication is disabled.  Anyone who can connect to this server will be able to run code.
-[32m[I 15:07:57.855 NotebookApp](B[m The port 8888 is already in use, trying another port.
-[32m[I 15:07:57.855 NotebookApp](B[m The port 8889 is already in use, trying another port.
-[32m[I 15:07:57.861 NotebookApp](B[m Serving notebooks from local directory: /home/ghy/test/coursera-project-age/working/CS231
-[32m[I 15:07:57.861 NotebookApp](B[m 0 active kernels 
-[32m[I 15:07:57.861 NotebookApp](B[m The Jupyter Notebook is running at: http://localhost:8890/
-[32m[I 15:07:57.861 NotebookApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[33m[W 15:08:31.459 NotebookApp](B[m Notebook assignments/assignment1_to_be_finished/knn.ipynb is not trusted
-[33m[W 15:08:31.494 NotebookApp](B[m 404 GET /nbextensions/canopy/training/exercise.js?v=20170919150757 (127.0.0.1) 8.75ms referer=http://localhost:8890/notebooks/assignments/assignment1_to_be_finished/knn.ipynb
-[33m[W 15:08:31.496 NotebookApp](B[m 404 GET /nbextensions/canopy/catalyst.js?v=20170919150757 (127.0.0.1) 1.22ms referer=http://localhost:8890/notebooks/assignments/assignment1_to_be_finished/knn.ipynb
-[32m[I 15:08:32.468 NotebookApp](B[m Kernel started: ef72e3d0-655b-4f96-985a-13831f9418ef
-[33m[W 15:08:32.599 NotebookApp](B[m 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170919150757 (127.0.0.1) 2.32ms referer=http://localhost:8890/notebooks/assignments/assignment1_to_be_finished/knn.ipynb
-[32m[I 15:10:32.569 NotebookApp](B[m Saving file at /assignments/assignment1_to_be_finished/knn.ipynb
-[33m[W 15:10:32.570 NotebookApp](B[m Saving untrusted notebook assignments/assignment1_to_be_finished/knn.ipynb
-[32m[I 15:20:32.492 NotebookApp](B[m Saving file at /assignments/assignment1_to_be_finished/knn.ipynb
-[33m[W 15:20:32.493 NotebookApp](B[m Saving untrusted notebook assignments/assignment1_to_be_finished/knn.ipynb
+]0;ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231]7;file://ghy-ThinkPad-T440/home/ghy/test/coursera-project-age/working/CS231]0;ghy@ghy-ThinkPad-T440: ~/test/coursera-project-age/working/CS231ghy@ghy-ThinkPad-T440:~/test/coursera-project-age/working/CS231$ git add .

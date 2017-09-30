@@ -25,7 +25,7 @@ This is a project of course notes for course CS231 by Standford.
 1. quick start of learning this course
 2. start from github official webisite http://cs231n.github.io/ 
 3. 直接深入了解CNN。
-
+4. Get to know Generative Adversarial Nets.
 
 
 ```
