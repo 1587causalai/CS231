@@ -11,7 +11,7 @@
 
 <meta name="author" content="Heyang Gong" />
 
-<meta name="date" content="2017-09-18" />
+<meta name="date" content="2017-10-11" />
 
 <title>Learning Notes of CS231</title>
 
@@ -119,33 +119,47 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Learning Notes of CS231</h1>
 <h4 class="author"><em>Heyang Gong</em></h4>
-<h4 class="date"><em>2017-09-18</em></h4>
+<h4 class="date"><em>2017-10-11</em></h4>
 
 </div>
 
 <div id="TOC">
 <ul>
-<li><a href="#overview"><span class="toc-section-number">0.1</span> Overview</a><ul>
-<li><a href="#python-tutorial"><span class="toc-section-number">0.1.1</span> python tutorial</a></li>
-<li><a href="#repos-and-best-materials"><span class="toc-section-number">0.1.2</span> Repos and best materials</a></li>
+<li><a href="#part-i-quick-start"><span class="toc-section-number">1</span> Part I: Quick start</a><ul>
+<li><a href="#overview"><span class="toc-section-number">1.1</span> Overview</a><ul>
+<li><a href="#python-tutorial"><span class="toc-section-number">1.1.1</span> python tutorial</a></li>
+<li><a href="#repos-and-best-materials"><span class="toc-section-number">1.1.2</span> Repos and best materials</a></li>
 </ul></li>
-<li><a href="#start-from-the-course-site"><span class="toc-section-number">0.2</span> Start from the course site</a><ul>
-<li><a href="#assignment1"><span class="toc-section-number">0.2.1</span> assignment1</a></li>
+<li><a href="#start-from-the-course-site"><span class="toc-section-number">1.2</span> Start from the course site</a><ul>
+<li><a href="#assignment1"><span class="toc-section-number">1.2.1</span> assignment1</a></li>
 </ul></li>
-<li><a href="#cnn"><span class="toc-section-number">0.3</span> CNN</a></li>
-<li><a href="#questions"><span class="toc-section-number">0.4</span> Questions</a></li>
+<li><a href="#cnn"><span class="toc-section-number">1.3</span> CNN</a></li>
+<li><a href="#questions"><span class="toc-section-number">1.4</span> Questions</a></li>
+</ul></li>
+<li><a href="#part-ii-"><span class="toc-section-number">2</span> Part II: 可视化</a><ul>
+<li><a href="#gongfuzhou"><span class="toc-section-number">2.1</span> gongfuzhou</a></li>
+</ul></li>
+<li><a href="#part-iii-"><span class="toc-section-number">3</span> Part III: 生成式对抗网络</a></li>
+<li><a href="#part-iv-my-research"><span class="toc-section-number">4</span> Part IV: My Research</a><ul>
+<li><a><span class="toc-section-number">4.1</span> 深度学习中的数据增强</a></li>
+</ul></li>
 </ul>
 </div>
 
+<blockquote>
+<p>tie: 神经网路等一切模型都是一个映射，把图片，视频变成一个高维空间中的向量。神经网路就是一个特征工程，一个降维过程。</p>
+</blockquote>
 <p>This is a project of course notes for course CS231 by Standford.</p>
 <pre><code>1. quick start of learning this course
 2. start from github official webisite http://cs231n.github.io/ 
 3. 直接深入了解CNN。
-
+4. Get to know Generative Adversarial Nets.
 
 </code></pre>
+<div id="part-i-quick-start" class="section level1">
+<h1><span class="header-section-number">1</span> Part I: Quick start</h1>
 <div id="overview" class="section level2">
-<h2><span class="header-section-number">0.1</span> Overview</h2>
+<h2><span class="header-section-number">1.1</span> Overview</h2>
 <p>CS231n focuses on one of the most important problems of visual recognition – image classification.</p>
 <p>Convolutional Neural Networks (CNN) have become an important tool for object recognition.</p>
 <blockquote>
@@ -179,22 +193,22 @@ $(document).ready(function () {
 <p>课程的 Syllabus</p>
 <p>课程大致包含 Course Intro, Image Classification, Loss function and Optimization, Nerual networks, Convolutional Neural newtworks 等内容。</p>
 <div id="python-tutorial" class="section level3">
-<h3><span class="header-section-number">0.1.1</span> python tutorial</h3>
+<h3><span class="header-section-number">1.1.1</span> python tutorial</h3>
 <pre class="r"><code>file.edit(&quot;scripts/quick-sort.py&quot;)</code></pre>
 </div>
 <div id="repos-and-best-materials" class="section level3">
-<h3><span class="header-section-number">0.1.2</span> Repos and best materials</h3>
+<h3><span class="header-section-number">1.1.2</span> Repos and best materials</h3>
 <p><a href="http://cs231n.github.io/" class="uri">http://cs231n.github.io/</a> 本课程资源官方资料网站</p>
 <p><a href="https://github.com/subodh-malgonde/cs231n">subodh-malgonde/cs231n</a> 是非常好的一个 repo on github, 里面包含了，每次的作业.</p>
 <p><a href="http://study.163.com/course/courseMain.htm?courseId=1003223001" class="uri">http://study.163.com/course/courseMain.htm?courseId=1003223001</a> 网易云课堂</p>
 </div>
 </div>
 <div id="start-from-the-course-site" class="section level2">
-<h2><span class="header-section-number">0.2</span> Start from the course site</h2>
+<h2><span class="header-section-number">1.2</span> Start from the course site</h2>
 <p><a href="http://cs231n.github.io/" class="uri">http://cs231n.github.io/</a> 本课程资源官方资料网站, 从这个网站出发，一步步的学习。</p>
 <p>由于没有双币信用卡，暂时放弃使用。</p>
 <div id="assignment1" class="section level3">
-<h3><span class="header-section-number">0.2.1</span> assignment1</h3>
+<h3><span class="header-section-number">1.2.1</span> assignment1</h3>
 <p>Image classification, KNN, SVM, Softmax, Neural network. I need to the following two things frist:</p>
 <ul>
 <li><a href="https://github.com/subodh-malgonde/cs231n/tree/master/Assignments/assignment1" class="uri">https://github.com/subodh-malgonde/cs231n/tree/master/Assignments/assignment1</a>, 直接研读前人的代码。</li>
@@ -205,7 +219,7 @@ file.edit(&quot;assignments/h1knn.py&quot;)</code></pre>
 </div>
 </div>
 <div id="cnn" class="section level2">
-<h2><span class="header-section-number">0.3</span> CNN</h2>
+<h2><span class="header-section-number">1.3</span> CNN</h2>
 <p><a href="http://cs231n.github.io/convolutional-networks/" class="uri">http://cs231n.github.io/convolutional-networks/</a></p>
 <p>depth, stride, zero-padding 三个CNN重要参数！</p>
 <p>CNN是什么，有什么用，怎么用？</p>
@@ -216,8 +230,46 @@ dir.create(&quot;scripts&quot;)
 file.edit(&quot;scripts/cnn-minst.py&quot;)</code></pre>
 </div>
 <div id="questions" class="section level2">
-<h2><span class="header-section-number">0.4</span> Questions</h2>
+<h2><span class="header-section-number">1.4</span> Questions</h2>
 <p>本章收集一些值得思考的问题，比如从现在到成为图像深度学习专家的最短路径是什么？</p>
+</div>
+</div>
+<div id="part-ii-" class="section level1">
+<h1><span class="header-section-number">2</span> Part II: 可视化</h1>
+<ul>
+<li><a href="http://playground.tensorflow.org">google 游乐场</a></li>
+<li><a href="scs.ryerson.ca/~aharley/vis/conv/">卷积神经网路 MNIST 可视化</a></li>
+</ul>
+<div id="gongfuzhou" class="section level2">
+<h2><span class="header-section-number">2.1</span> gongfuzhou</h2>
+<p>随机梯度下降法，。。。</p>
+<p>博弈算法 VS 贪婪算法</p>
+<p>google or facebook 团队自动调参, 胡耀宗。</p>
+<p>xuzongben…</p>
+<p>白板深度学习。</p>
+<p>模拟退火的几乎最优条件。</p>
+<p>调节参数的一般过程，两种方法，从多到少，从少到多，最多10曾，一般每层不超过6个神经元。</p>
+</div>
+</div>
+<div id="part-iii-" class="section level1">
+<h1><span class="header-section-number">3</span> Part III: 生成式对抗网络</h1>
+<p>google “生成式对抗网络”</p>
+<p><a href="https://zhuanlan.zhihu.com/p/26994666">到底什么是生成式对抗网络GAN?</a></p>
+</div>
+<div id="part-iv-my-research" class="section level1">
+<h1><span class="header-section-number">4</span> Part IV: My Research</h1>
+<div class="section level2">
+<h2><span class="header-section-number">4.1</span> 深度学习中的数据增强</h2>
+<p>深度学习中，为了避免数据过拟合，通常需要输入海量的数据，然后通过算法对图像数据进行几何变换，改变图像像素的位置并保证特征不变。主要的图像数据增强变换主要有以下几种：</p>
+<p>旋转/反射变换(Rotation/reflection): 随机旋转图像一定角度; 改变图像内容的朝向;</p>
+<p>翻转变换(flip): 沿着水平或者垂直方向翻转图像;</p>
+<p>缩放变换(zoom): 按照一定的比例放大或者缩小图像;</p>
+<p>平移变换(shift): 在图像平面上对图像以一定方式进行平移，可以采用随机或人为定义的方式指定平移范围和平移步长, 沿水平或竖直方向进行平移. 改变图像内容的位置;</p>
+<p>尺度变换(scale): 对图像按照指定的尺度因子, 进行放大或缩小; 或者参照SIFT特征提取思想, 利用指定的尺度因子对图像滤波构造尺度空间. 改变图像内容的大小或模糊程度;</p>
+<p>对比度变换(contrast): 在图像的HSV颜色空间，改变饱和度S和V亮度分量，保持色调H不变. 对每个像素的S和V分量进行指数运算(指数因子在0.25到4之间), 增加光照变化;</p>
+<p>噪声扰动(noise): 对图像的每个像素RGB进行随机扰动, 常用的噪声模式是椒盐噪声和高斯噪声;</p>
+<p><a href="https://manutdzou.github.io/2016/10/26/data-augmentation.html">深度学习中的数据增强实现</a></p>
+</div>
 </div>
 
 

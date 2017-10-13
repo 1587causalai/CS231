@@ -1,0 +1,33 @@
+---
+title: "我的小成就"
+author: "Heyang Gong"
+output: 
+  html_document: 
+    number_sections: yes
+    toc: yes
+---
+
+```{r setup,eval=TRUE, echo=FALSE, warning=FALSE,message=FALSE}
+knitr::opts_chunk$set(eval = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+This file aims to 记录我的思考和心得。
+
+```{r, include = F}
+gongfunc::set_py()
+library(tidyverse)
+file.create("README.md")
+file.create("what-brings-you-here.md")
+```
+
+
+
+## Quick start
+
+
+## 小城就
+
+
+自编码器把非 $[0,1]$ 之间的输入影射到 $[0,1]$ 之间的数值，如何叫做输入和输入相同的自编码？
+
+Answer: 输入以什么样的方式编程 $[0,1]$, 最后以什么样的方式变回来就是了！
